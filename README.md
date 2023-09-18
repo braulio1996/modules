@@ -1,0 +1,2 @@
+# odoo
+mi primer modulo
